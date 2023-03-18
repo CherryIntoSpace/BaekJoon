@@ -101,3 +101,4 @@
 
  <p>각 테스트 케이스에 대해 필요한 최소의 배추흰지렁이 마리 수를 출력한다.</p>
 
+![프레젠테이션1](https://user-images.githubusercontent.com/127698945/226126399-a80b3c7e-62c4-4f5f-ab38-27e4d83c5f77.png)
