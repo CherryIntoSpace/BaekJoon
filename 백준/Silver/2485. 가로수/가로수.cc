@@ -27,6 +27,7 @@ int main(int argc, char** argv) {ios::sync_with_stdio(false); cin.tie(NULL); cou
 		y = gcd(tree_gap[i], y);
 	}
 	
+	/*핵심 : 나무 간 사이를 최대공약수로 나눈 것에 1을 뺀 것이 심어야 하는 나무  */
 	for(int i=0; i<n-1; ++i){
 		cnt += (tree_gap[i] / y) - 1;
 	}
