@@ -10,3 +10,9 @@
 
 ## 곱셈 : 
 [백준 22193번 Multiply.cc](https://github.com/CherryIntoSpace/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/22193.%E2%80%85Multiply/Multiply.cc)
+
+## 나눗셈 : 
+[백준 24309번 РАВЕНСТВО.cc](https://github.com/CherryIntoSpace/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/24309.%E2%80%85%D0%A0%D0%90%D0%92%D0%95%D0%9D%D0%A1%D0%A2%D0%92%D0%9E/%D0%A0%D0%90%D0%92%D0%95%D0%9D%D0%A1%D0%A2%D0%92%D0%9E.cc)
+
+## 나머지 :
+[백준 1837번 암호제작.cc](https://github.com/CherryIntoSpace/BaekJoon/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1837.%E2%80%85%EC%95%94%ED%98%B8%EC%A0%9C%EC%9E%91/%EC%95%94%ED%98%B8%EC%A0%9C%EC%9E%91.cc)
