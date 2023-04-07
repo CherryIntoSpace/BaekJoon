@@ -5,9 +5,13 @@
 using namespace std;
 int main(int argc, char** argv) {ios::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
 	
-	int a,b,c;
+	int num[3];
 	
-	cin>>a>>b>>c;
+	for(int &x : num){
+		cin>>x;
+	}
 	
-	cout<<(c - a) + (c - b);
+	sort(num,num+3);
+	
+	cout<<(num[2] - num[0]) + (num[2] - num[1]);
 }
